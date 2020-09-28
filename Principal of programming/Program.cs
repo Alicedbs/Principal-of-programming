@@ -11,6 +11,7 @@ namespace Principal_of_programming
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
